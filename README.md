@@ -1,0 +1,1 @@
+Console program that generates random strings of a user specified length until a hash collision occurs (Two different strings that hash to the same value).  The max hash length should be set lower to avoid NP computation times.
